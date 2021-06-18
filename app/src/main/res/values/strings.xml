@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BinaryVedas</string>
+    <string name="text_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="btn_txt">register</string>
+    <string name="tv_collector">me as a collector</string>
+    <string name="icon_one_title">lorem ipsum\nis used</string>
+    <string name="icon_one_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</string>
+</resources>

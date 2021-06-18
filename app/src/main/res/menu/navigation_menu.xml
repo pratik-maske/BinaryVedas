@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_home"
+        android:title="Uploads"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_upload"
+        />
+    <item android:id="@+id/menu_notification"
+        android:title="Exhibitions"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_exhibition"
+        />
+    <item android:id="@+id/menu_search"
+        android:title="Revenue"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_revenuee"
+        />
+</menu>
